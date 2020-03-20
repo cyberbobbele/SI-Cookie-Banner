@@ -1,0 +1,33 @@
+consentModal:
+  title: Informationen, die wir erheben
+  description: >
+    Hier können Sie die Informationen, die wir erheben, einsehen und ändern.
+  privacyPolicy:
+    name: Datenschutzerklärung
+    text: >
+      Lesen Sie unsere {privacyPolicy}, um mehr zu erfahren.
+consentNotice:
+  changeDescription: Es gab Änderungen seit Ihrem letzten Besuch, bitte aktualisieren Sie Ihre Einverständniserklärung.
+  description: >
+    Wir erheben und verarbeiten Informationen zu folgenden Zwecken: {purposes}.
+  learnMore: Mehr erfahren
+accept: Akzeptieren
+acceptAll: Alle akzeptieren
+save: Speichern
+saveData: Meine Konfiguration zu erfassten Informationen speichern
+decline: Ablehnen
+declineAll: Alle ablehnen
+close: Schließen
+enabled: Aktiviert
+disabled: Deaktiviert
+app:
+  optOut:
+    title: (freiwillig)
+    description: Diese Einstellung ist standardmäßig aktiviert (aber Sie können sie einstellen)
+  required:
+    title: (notwendig)
+    description: Diese Einstellung wird immer benötigt
+  purposes: Zwecke
+  purpose: Zweck
+poweredBy: 
+newWindow: neues Fenster
