@@ -10,7 +10,7 @@ consentNotice:
   changeDescription: Es gab Änderungen seit Ihrem letzten Besuch, bitte aktualisieren Sie Ihre Einverständniserklärung.
   description: >
     Wir erheben und verarbeiten Informationen zu folgenden Zwecken: {purposes}.
-  learnMore: Mehr erfahren
+  learnMore: Einstellungen
 accept: Akzeptieren
 acceptAll: Alle akzeptieren
 save: Speichern
